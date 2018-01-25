@@ -1,0 +1,48 @@
+body {
+	background-image: url("../img/background/record-player.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.z-depth-0 {
+	background-image: url("../img/logo.svg");
+	background-repeat: no-repeat;
+	background-color: transparent;
+}
+
+#nav-mobile {
+	float: right;
+	font-family: "https://fonts.google.com/specimen/Dosis?selection.family=Dosis";
+}
+
+section {
+	padding-top: 3%;
+	padding-bottom: 1%;
+	margin-top: 75vw;
+	font-family: "https://fonts.google.com/specimen/Dosis?selection.family=Dosis";
+	background-color: white;
+}
+
+#destacado {
+	font-size: 25px;
+	font-style: italic;
+}
+
+.page-footer {
+	margin-top: 5vw;
+	background-color: white;
+	color: black;
+	font-family: "https://fonts.google.com/specimen/Dosis?selection.family=Dosis";
+	font-size: 16px;
+	padding-bottom: 0.01%
+}
+
+.icone {
+	height: 24px;
+}
+
+#rede {
+	padding-right: 5px;
+	float: right
+}
